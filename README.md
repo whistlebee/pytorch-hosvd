@@ -1,8 +1,10 @@
 ## PyTorch (GPU) implementation of Higher Order Singular Value Decomposition
 
-Some features:
+Has:
 * sequential truncation [1]
 * randomized svd [2]
+
+Have a look at the [notebook](experiments.ipynb) for examples.
 
 ![](comparison.png?raw=true)
 
