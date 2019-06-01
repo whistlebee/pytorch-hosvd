@@ -1,6 +1,6 @@
 ## PyTorch (GPU) implementation of Higher Order Singular Value Decomposition
 
-<a href=\"https://colab.research.google.com/github/whistlebee/pytorch-hosvd/blob/master/experiments.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/whistlebee/pytorch-hosvd/blob/master/experiments.ipynb)
 
 Has:
 * sequential truncation [1]
