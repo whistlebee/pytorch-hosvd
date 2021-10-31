@@ -1,6 +1,6 @@
 ## PyTorch (GPU) implementation of Higher Order Singular Value Decomposition
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/whistlebee/pytorch-hosvd/blob/master/experiments.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/whistlebee/pytorch-hosvd/blob/master/notebooks/experiments.ipynb)
 
 Has:
 * sequential truncation [1]
@@ -8,7 +8,7 @@ Has:
 
 Have a look at the [notebook](experiments.ipynb) for examples.
 
-![](comparison.png?raw=true)
+![](images/comparison.png?raw=true)
 
 [1] Vannieuwenhoven, Nick, Raf Vandebril, and Karl Meerbergen. "A new truncation strategy for the higher-order singular value decomposition." SIAM Journal on Scientific Computing 34.2 (2012): A1027-A1052.
 

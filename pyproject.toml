@@ -1,0 +1,5 @@
+[project]
+dependencies = ['torch==1.10.0', 'tensorly==0.6.0']
+
+[project.optional_dependencies]
+tests = ['pytest==6.2.4']
